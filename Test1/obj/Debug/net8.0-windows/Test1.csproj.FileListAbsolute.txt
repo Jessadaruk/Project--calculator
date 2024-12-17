@@ -1,0 +1,16 @@
+D:\OOP\Test1\bin\Debug\net8.0-windows\Test1.exe
+D:\OOP\Test1\bin\Debug\net8.0-windows\Test1.deps.json
+D:\OOP\Test1\bin\Debug\net8.0-windows\Test1.runtimeconfig.json
+D:\OOP\Test1\bin\Debug\net8.0-windows\Test1.dll
+D:\OOP\Test1\bin\Debug\net8.0-windows\Test1.pdb
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.Form1.resources
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.csproj.GenerateResource.cache
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.AssemblyInfoInputs.cache
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.AssemblyInfo.cs
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.csproj.CoreCompileInputs.cache
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.dll
+D:\OOP\Test1\obj\Debug\net8.0-windows\refint\Test1.dll
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.pdb
+D:\OOP\Test1\obj\Debug\net8.0-windows\Test1.genruntimeconfig.cache
+D:\OOP\Test1\obj\Debug\net8.0-windows\ref\Test1.dll
